@@ -64,3 +64,7 @@
 由于 微积分B 和 微积分A 的学习是一脉贯通的，因此可以移步 [微积分A](https://hoa.moe/docs/fresh-autumn/math1015a/) 仓库观看详细的学习指导
 
 > 文/[psp_dada](https://github.com/pspdada) 2024.7.18
+
+作业按章提交，题量较多，但时间也比较充足，建议每上完一次课就按时复习并完成相应作业题，不要等到 ddl 再写，会来不及，而且及时写作业可以巩固当前刚学习的新知识。
+
+> 文/[Wei HE](https://github.com/hewei2001) 2020
