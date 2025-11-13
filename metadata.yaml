@@ -1,0 +1,90 @@
+ID: "MATH1015B"
+SimilarID: []
+Name: "微积分B"
+CourseProperty:
+  Major:
+    - Year: "2022_2023"
+      Name: [ "自动化", "土木", "机械", "电气", "电信", "材料", "经济", "工商管理", "计算机", "通信（第二学位）", "环境", "能源" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "MATH1015B"
+  CourseName: "微积分B"
+  Credit: "5.0"
+  CourseHour: "80.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "20"
+    - Name: "期中考试"
+      Percentage: "30"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（自动化与电气工程）", "工科试验班（机器人与智能装备）", "工科试验班（先进材料类）", "工科试验班（智能土木类）", "化学" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "MATH1015B"
+  CourseName: "微积分B"
+  Credit: "5.0"
+  CourseHour: "80.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "20"
+    - Name: "期中考试"
+      Percentage: "30"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（机器人与智能装备）", "电气工程及其自动化", "化学", "工科试验班（智慧能源与低空动力）", "工科试验班（智能土木类）", "工科试验班（先进材料类）", "工科试验班（空天科技）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "春"
+  CourseType: "必修"
+  CourseID: "MATH1015B"
+  CourseName: "微积分B"
+  Credit: "5.0"
+  CourseHour: "80.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "20"
+    - Name: "期中考试"
+      Percentage: "30"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
