@@ -1,11 +1,5 @@
 # MATH1015B - 微积分B
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期中考试30%](https://img.shields.io/badge/期中考试-30%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 2025.1 补充：包老师已经不在深圳任教，但是包老师对深圳校区作出很大贡献，仍保留。
 
